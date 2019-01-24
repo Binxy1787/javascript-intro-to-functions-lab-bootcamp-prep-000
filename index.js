@@ -18,6 +18,10 @@ function sayHiToGrandma(string) {
   
   if(string == string.toLowerCase()){
     return string;
+  }else if(string == string.toUpperCase()){
+    return string;
+  }else{
+    return string;
   }
 }
 
