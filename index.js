@@ -14,6 +14,3 @@ function sayHiToGrandma(string) {
   return string
 }
 
-sayHiToGrandma(string){
-  return string
-}
